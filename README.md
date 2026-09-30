@@ -1,0 +1,1 @@
+ICT means Information and Communication Technology: the tools that let us collect, process, and share information. As a Mechatronics student, ICT is what connects my sensors, code, and machines into working systems. I want to use it to build smart, automated engineering solutions.
